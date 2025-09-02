@@ -1,3 +1,14 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo img {
+  height: 50px; /* tamaño del logo */
+  width: auto;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -93,3 +104,4 @@ footer {
     gap: 10px;
   }
 }
+
